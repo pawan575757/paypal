@@ -7,7 +7,7 @@
     <title>Paypal-payment-gateway</title>
 </head>
 <body>
-<h2>hello</h2>
+<h2>hellho</h2>
 
 
 </body>
